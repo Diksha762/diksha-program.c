@@ -64,14 +64,14 @@ Name = diksha
 
 Roll no=1921025
 
-Age = 
+Age = 19
 
 Phone no.= 7087241763
 
 The name is diksha
 Your roll no is 1921025
-My phone number is 70872417
- My age is 25
+My phone number is 7087241763
+ My age is 19
  ```
 
 ## 3:To find sum of two numbers
@@ -710,5 +710,5 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5OTYxOTk5XX0=
+eyJoaXN0b3J5IjpbLTEyNjY5MTAzMDVdfQ==
 -->
