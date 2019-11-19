@@ -4,8 +4,8 @@
 ![enter image description here](https://lh3.googleusercontent.com/vVnH6BXe-LhJsPfOsgew6B8F71aXmb7rVa7Z6HBNYyRpZ_pcReGF2OtL8iwd2MX3qC6zUX5Axfwm)
 
 ## ***Submitted By :***
-##### ***Name : Krishan***           
-##### ***Roll No. : 1921057***
+##### ***Name :diksha***           
+##### ***Roll No. : 1921025***
 ##### ***Branch : Information Tecnology(I.T)***
 ##### ***Section  : I.T. A2***
 ##### ***Subject code: ESC18104/18105***
@@ -710,14 +710,5 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzIyNzA1MDQsLTIwMjQwMzA3NDMsLT
-E5NDEyOTE4NTAsMTk0Njc2OTc1MiwtMzU0MjM5ODI5LDE5NDY3
-Njk3NTIsMTY1NjkwMTUyOCwtNzI4Njc0OTY1LC03ODgxMTA1Mz
-MsMTQwMTM4NDY2NCwxNjE4MDI1MjgwLDQ4NzQwNDMwMSwyMDk2
-ODIxMDM0LC0yMTI4OTEyMDkyLC0yNjA0NDkxNjcsLTI3NzYwOT
-gxMSwxMTM1MjAwOTYxLC02NDMwODgyNTYsMzkzMzk5MjM4LDc3
-NDk0NzcxM119
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDM1NzU5OF19
+eyJoaXN0b3J5IjpbLTgwNDA4NjM0NV19
 -->
