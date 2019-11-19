@@ -7,7 +7,7 @@
 ##### ***Name :diksha***           
 ##### ***Roll No. : 1921025***
 ##### ***Branch : Information Tecnology(I.T)***
-##### ***Section  : I.T. A2***
+##### ***Section  : I.T. A1***
 ##### ***Subject code: ESC18104/18105***
 
 
@@ -710,5 +710,5 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY5MTAzMDVdfQ==
+eyJoaXN0b3J5IjpbMTI0OTA5Nzg1NiwtMTI2NjkxMDMwNV19
 -->
